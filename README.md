@@ -1,10 +1,11 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenweihan02&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 
 
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=chenweihan02&show_icons=true&include_all_commits=true)](https://github.com/chenweihan02/github-readme-stats)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-1034558980@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1034558980@qq.com)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chenweihan02/)](https://www.github.com/chenweihan02/)
 
 - 👋 Hi, I’m @chenweihan02
 - 👀 I’m interested in Web development
