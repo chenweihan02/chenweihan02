@@ -4,7 +4,7 @@
 
 
 
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=chenweihan02&show_icons=true&include_all_commits=true)](https://github.com/chenweihan02/github-readme-stats)
 
 - 👋 Hi, I’m @chenweihan02
 - 👀 I’m interested in Web development
