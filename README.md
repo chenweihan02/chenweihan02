@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @chenweihan02
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development & SLAM
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1034558980@qq.com
