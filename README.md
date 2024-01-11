@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @chenweihan02
 - 👀 I’m interested in Software development & SLAM
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1034558980@qq.com
 
